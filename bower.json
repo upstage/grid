@@ -1,0 +1,9 @@
+{
+  "name": "grid",
+  "version": "0.1.0",
+  "main": "grid.less",
+  "dependencies": {
+    "mixins-grid": "0.1.0"
+  },
+  "ignore": ["*.sublime-*"]
+}
